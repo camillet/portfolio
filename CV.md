@@ -1,4 +1,4 @@
-#Camille Thomas#
+##Camille Thomas##
 
 * Scholarly Communication Librarian at Texas Tech University Libraries
 * ORCID: http://orcid.org/0000-0002-0363-0126
