@@ -1,9 +1,8 @@
 # Camille Thomas
 
-* Scholarly Communication Librarian at Texas Tech University Libraries
+* Scholarly Communication Librarian 
 * ORCID: http://orcid.org/0000-0002-0363-0126
-* Website: https://camillevthomas.wordpress.com/
-* Email: (work) camille.thomas@ttu.edu ; (personal) camillevthomas@gmail.com
+* Website: https://camille-thomas.com 
 
 ## Education
 
@@ -26,27 +25,6 @@
 
 2009-2013   Reporter; Editorial Intern; Teaching and Learning Research Assistant; Social Media and Copywriting Assistant; Web Content Project Manager, Winter Park and BRINK magazines + Lakeland Ledger + Swish Digital Marketing Agency + National Staffing Solutions
 
-## Awards & Fellowships
 
-2017        Early Career Travel Award for ACRL Conference, Association of College and Research Libraries
 
-2016        Early Career Travel Award for OpenCon, Scholarly Publishing and Academic Resources Coalition (SPARC)
-
-2016        New Professsionals Forum Travel Fellowship, Digital Library Federation (DLF/CLIR)
-
-2015        A. Pepke Prize, Florida State University Libraries
-
-2014        IEEE Conference on Big Data Travel Scholarship, National Science Foundation
-
-2014-2015   Spectrum Scholar, American Library Association (ALA)
-
-2014-2015   Career Enhancement Program Fellow, Association of Research Libraries (ARL)
-
-2013        E.J. Josey Scholarship, American Library Assosication - Black Caucus
-
-## Service
-
-## Selected Works + Projects
-
-## Features/ Mentions
 
